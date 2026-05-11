@@ -1,0 +1,53 @@
+/*
+  X-Content-Type-Options: nosniff
+  Referrer-Policy: strict-origin-when-cross-origin
+  Permissions-Policy: geolocation=(), microphone=(), camera=()
+  Strict-Transport-Security: max-age=31536000; includeSubDomains; preload
+  X-XSS-Protection: 1; mode=block
+  Content-Security-Policy: default-src 'self'; script-src 'self' 'unsafe-inline' 'unsafe-eval'; style-src 'self' 'unsafe-inline'; img-src 'self' data: blob:; media-src 'self' https://cdn2.videy.co https: data: blob:; connect-src 'self' https://cdn2.videy.co https:; frame-ancestors 'none'
+
+/*.mp4
+  Accept-Ranges: bytes
+  Cache-Control: public, max-age=86400, must-revalidate
+  Access-Control-Allow-Origin: *
+  Access-Control-Allow-Methods: GET, HEAD, OPTIONS
+  Access-Control-Allow-Headers: Range
+
+/*.mov
+  Accept-Ranges: bytes
+  Cache-Control: public, max-age=86400, must-revalidate
+  Access-Control-Allow-Origin: *
+  Access-Control-Allow-Methods: GET, HEAD, OPTIONS
+  Access-Control-Allow-Headers: Range
+
+/*.mkv
+  Accept-Ranges: bytes
+  Cache-Control: public, max-age=86400, must-revalidate
+  Access-Control-Allow-Origin: *
+  Access-Control-Allow-Methods: GET, HEAD, OPTIONS
+  Access-Control-Allow-Headers: Range
+
+/*.webm
+  Accept-Ranges: bytes
+  Cache-Control: public, max-age=86400, must-revalidate
+  Access-Control-Allow-Origin: *
+  Access-Control-Allow-Methods: GET, HEAD, OPTIONS
+  Access-Control-Allow-Headers: Range
+
+/*.css
+  Cache-Control: public, max-age=2592000
+
+/*.js
+  Cache-Control: public, max-age=2592000
+
+/*.png
+  Cache-Control: public, max-age=15552000
+
+/*.jpg
+  Cache-Control: public, max-age=15552000
+
+/*.jpeg
+  Cache-Control: public, max-age=15552000
+
+/*.webp
+  Cache-Control: public, max-age=15552000
